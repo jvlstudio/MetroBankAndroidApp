@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SherlockCustom" parent="@style/Theme.Sherlock">
+          <item name="actionBarStyle">@style/Widget.Styled.ActionBar</item>
+        <item name="android:actionBarStyle">@style/Widget.Styled.ActionBar</item>
+  
+    </style>
+
+     <style name="Theme.SherlockCustom3" parent="@style/Theme.Sherlock">
+   
+          <item name="actionBarStyle">@style/Widget.Styled.ActionBar</item>
+        <item name="android:actionBarStyle">@style/Widget.Styled.ActionBar</item>
+        
+    </style>
+    
+     
+
+    <style name="Widget.Styled.ActionBar" parent="Widget.Sherlock.ActionBar">
+  <item name="background">@drawable/metrobank</item>
+    <item name="android:background">@drawable/metrobank</item>
+
+    </style>
+    
+    <style name="StyledIndicators" parent="@style/Theme.SherlockCustom3">
+        <item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+        <item name="vpiTabTextStyle">@style/CustomTabPageIndicator.Text</item>
+    </style>
+    
+  	
+    <style name="CustomTabPageIndicator" parent="Widget.TabPageIndicator">
+        <item name="android:background">@drawable/custom_tab_indicator</item>
+    </style>
+
+    <style name="CustomTabPageIndicator.Text" parent="Widget.TabPageIndicator.Text">
+        <item name="android:textColor">#FF555555</item>
+            </style>
+</resources>

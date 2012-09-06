@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blueback">#0033b2</color>
+    <color name="tabMedium">#e41937</color>
+    <color name="tabDark">#8f1200</color>
+    <color name="tabTransparent">#8f1200</color>
+    <color name="DarkRedMrLenderColor">#8B0F04</color>
+    <color name="RedMrLenderColor">#e41937</color>
+    <color name="StatusPendingMyAccount">#b156be</color>
+    <color name="TrueWhite">#FFFFFF</color>
+    <color name="Black">#000000</color>
+    <color name="ExistinCustomerButtonColor">#22b14c</color>
+    <color name="BlueMrLender">#00a2e8</color>
+    <color name="greyletters">#898989</color>
+    <color name="actionbar_separator">#8B1A1A</color>
+    <color name="actionbar_title">#FFFFFF</color>
+    <color name="actionbar_background_start">#8B1A1A</color>
+    <color name="actionbar_background_end">#CD2626</color>
+    <color name="actionbar_background_startjavier">#8B0E04</color>
+    <color name="actionbar_background_endjavier">#B35D58</color>
+    <color name="actionbar_background_item_pressed_start">#FF7F00</color>
+    <color name="actionbar_background_item_pressed_end">#EE7600</color>
+    <color name="accent_1">#ff29549f</color>
+    <color name="linegray">#D6D6D6</color>
+    <color name="greybackground">#F8F8F8</color>
+    <color name="googleplusblue">#6C8CC4</color>
+    <color name="googlesubtitle">#717271</color>
+    <color name="brownmrlender">#8B0E04</color>
+
+</resources>
